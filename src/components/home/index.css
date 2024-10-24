@@ -1,0 +1,25 @@
+.home-container{
+    min-height: 90vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    background-color: #00000050;
+}
+.home-button{
+    background-color: #00000050;
+    border: 0;
+    border-radius: 10px;
+    cursor: pointer;
+    color: #fff;
+    padding: 10px 20px;
+    transition: .5s;
+}
+
+.home-button:hover{
+    background-color: #ffffff50;
+}
+/* .home-button .link{
+    font-size: 14px;
+} */
